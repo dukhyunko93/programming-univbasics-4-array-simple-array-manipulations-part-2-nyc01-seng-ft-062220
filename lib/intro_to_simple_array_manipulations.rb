@@ -20,3 +20,4 @@ end
 
 def using_dete_at(array,integer)
   array.delete(integer)
+end
